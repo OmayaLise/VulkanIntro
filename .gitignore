@@ -1,0 +1,48 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Executables
+*.exe
+*.out
+*.app
+
+#IDE
+Build
+run
+.vscode
+.vs
+x64/*
+VulkanInit/x64/*
+
+#Log system
+Log.txt
+
+Debug*
+
+VulkanInit/Debug*
+#Shader
+*.spv
+
